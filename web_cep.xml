@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<webservicecep>
+<resultado>1</resultado>
+<resultado_txt>sucesso - cep completo</resultado_txt>
+<uf>PE</uf>
+<cidade>Recife</cidade>
+<bairro>Cordeiro</bairro>
+<tipo_logradouro>Rua</tipo_logradouro>
+<logradouro>Rio Capibaribe</logradouro>
+
+</webservicecep>
